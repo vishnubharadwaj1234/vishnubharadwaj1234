@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vishnubharadwaj1234
-- 👀 I’m interested in deep learning, specifically computer vision.
+- 👀 I’m interested in deep learning for computer vision.
 - 🌱 I’m currently learning APCS A, Precalculus Honors, AP Physics 1, and deep learning
-- 💞️ I’m looking to collaborate on small projects that utilize machine learning topics to do meaningful work in the field of computer vision.
+- 💞️ Send me a message if you're interested in working with me on something!
 - 📫 How to reach me<br>Gmail: vishnubharadwaj83@gmail.com<br>Discord: vishnubharadwaj
 
 <!---
